@@ -1,0 +1,2 @@
+ pytest -m tests/test_login.py --html=report.html --self-contained-html
+
